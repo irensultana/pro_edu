@@ -1,0 +1,16 @@
+.carousel-caption {
+	transform: translateY(-50%);
+	bottom: initial;
+	top: 50%;
+	z-index: 3;
+}
+.carousel-caption h1{
+    color: aliceblue;
+}
+.carousel-caption p{
+    color: white;
+}
+.course-title{
+	max-width: 550px;
+	min-width: 300px;
+}
